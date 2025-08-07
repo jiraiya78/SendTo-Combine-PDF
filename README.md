@@ -39,7 +39,7 @@ This tool lets you:
     - `CombinePDFs.ps1`
     - `CombinePDFs.bat`
     - `PdfSharp.dll`
-3. **Run** `CombinePDFs.bat` to create the shortcut in your `SendTo` folder
+3. **Run** `Installer - Create SendTo.bat` to create the shortcut in your `SendTo` folder
 4. You're ready to use it!
 
 ---
