@@ -1,0 +1,6 @@
+instruction
+- run installer
+
+uses
+- select multiple pdf
+- right click > send to > combine PDFs
